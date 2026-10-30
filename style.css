@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    color: black;
+    margin: 0;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
